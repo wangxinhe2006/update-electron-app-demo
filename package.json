@@ -23,7 +23,7 @@
   },
   "homepage": "https://github.com/wangxinhe2006/update-electron-app-demo#readme",
   "dependencies": {
-    "electron": "^6.0.0",
+    "electron": "^7.2.4",
     "update-electron-app": "^1.5.0"
   },
   "devDependencies": {
